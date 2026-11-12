@@ -1,0 +1,152 @@
+(footprint "nanofit_2x3_1053141106"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -6.0452 7.823 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "29b4c1be-9d9e-4a96-8a10-ecc0b09b3f30")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "1053141106"
+		(at 1.25 14 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "60977e07-3983-489f-b9a5-047cc58919e8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d84bc602-64b7-4812-b9d5-2f824ebbbc49")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "946bd4d1-2767-4729-914e-277b585ca2d8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -5 -2.5)
+		(end 5 12)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "4d3ec8ed-1479-494f-ade3-9fd3e35fd208")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 15.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1049b3a4-dd0d-498e-8e80-cca81a977878")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -2.5 7.18)
+		(size 2 2)
+		(drill 1.75)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "7a280b3f-1f55-48d9-981d-0e17ba768c25")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.5 7.18)
+		(size 2 2)
+		(drill 1.75)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "bb026427-26b1-4dc6-b27f-45abd4a45042")
+	)
+	(pad "1" thru_hole circle
+		(at 2.5 -2.5)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9a484d15-0f8e-4b25-b2cc-55618a8934ef")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -2.5)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b3689c30-9f88-4447-b888-3220bcffbc5e")
+	)
+	(pad "3" thru_hole circle
+		(at -2.5 -2.5)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ba852a5e-48a1-4e48-a2c4-aaa745c05fac")
+	)
+	(pad "4" thru_hole circle
+		(at 2.5 0)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "907ffdac-dcb9-4f5f-9b9a-4525ef571f40")
+	)
+	(pad "5" thru_hole circle
+		(at 0 0)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6268c4e6-5a92-4963-8143-c578de1f0849")
+	)
+	(pad "6" thru_hole circle
+		(at -2.5 0)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b87d4c50-8b68-4408-a824-84c3e4acbf60")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/nicho/My Drive/Projects/Projects/PCB projects/MyKicadLibrary/3dBodies/1053141106.stp"
+		(offset
+			(xyz 0 -6.2 3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
