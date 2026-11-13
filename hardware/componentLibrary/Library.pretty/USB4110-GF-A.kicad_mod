@@ -7,7 +7,7 @@
 		(at -5.9732 -1.9108 90)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "19549bd1-a940-4f76-a050-3e723b555459")
+		(uuid "f830404e-ba94-4eb4-8bc4-28dffdf3e840")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at -0.17 8.33 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "5955bcd4-1314-443a-849a-1d00beaa4e5e")
+		(uuid "e0ffab3c-bb79-4b80-8742-059c4de87bd2")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0cedb1fb-481b-492b-8d15-8af6ee9cdb22")
+		(uuid "baa2a826-d232-45a3-a3a1-1644390e33c5")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "948575dd-aa89-4b7f-8a77-f52972dd0271")
+		(uuid "7944e759-8d86-4e2e-bb7a-4516fbad3ab8")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -61,13 +61,13 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "327bff04-6be6-453e-a4ea-cc346c448aeb")
+		(uuid "c869c754-5716-4223-a87a-d4113d171a1a")
 	)
 	(fp_text user "${REFERENCE}"
 		(at -0.17 9.83 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "d0c0d929-e758-4568-b3d1-d93c37f42c8a")
+		(uuid "71fb67b2-22ae-41b4-81cc-10919d04f9eb")
 		(effects
 			(font
 				(size 1 1)
@@ -80,14 +80,14 @@
 		(size 0.1 0.1)
 		(drill 0.65)
 		(layers "F&B.Cu" "*.Mask")
-		(uuid "a278be7e-1098-4e88-bde4-b1603ba037c4")
+		(uuid "fdb05d9b-e9e9-4e2b-8687-9e486e8e24f2")
 	)
 	(pad "" np_thru_hole circle
 		(at 2.89 1.075)
 		(size 0.1 0.1)
 		(drill 0.65)
 		(layers "F&B.Cu" "*.Mask")
-		(uuid "da6393d0-5f37-4203-9acd-66fa5a6e8421")
+		(uuid "4784715e-5a21-4a19-969e-8de9bb83757a")
 	)
 	(pad "A1" smd rect
 		(at -3.2 0)
@@ -95,7 +95,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "dcc2f6c0-ad19-40d7-8e25-8c99208c6a85")
+		(uuid "456264a3-e1bf-493e-ba3a-0cbb5b9d884f")
 	)
 	(pad "A4" smd rect
 		(at -2.4 0)
@@ -103,7 +103,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "a0f933a4-2e46-4b2c-b170-45149ae9d2a6")
+		(uuid "9f0631fc-489f-4267-bf53-74167d9e4cb3")
 	)
 	(pad "A5" smd rect
 		(at -1.25 0)
@@ -111,7 +111,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "5f943f22-85b6-4df9-8429-5e4afa7ebfc3")
+		(uuid "4de6d37e-ad89-40d8-a57b-cc852d5ce155")
 	)
 	(pad "A6" smd rect
 		(at -0.25 0)
@@ -119,7 +119,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "0859c3f1-f2fb-4e08-ae2a-98c4e04a0bc3")
+		(uuid "fceef84f-f6e5-4383-8d55-7d476af58cf6")
 	)
 	(pad "A7" smd rect
 		(at 0.25 0)
@@ -127,7 +127,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "dd9eea7a-1811-4e37-bbb0-0565c784f459")
+		(uuid "5ce58ce8-fe0e-4146-b07b-016a56f85c3a")
 	)
 	(pad "A8" smd rect
 		(at 1.25 0)
@@ -135,7 +135,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "d7262da2-d722-4f2d-ad93-7ad68b36bef6")
+		(uuid "7a1683bf-7dc5-4439-8f52-5c8a3d28cc39")
 	)
 	(pad "A9" smd rect
 		(at 2.4 0)
@@ -143,7 +143,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "b307d93e-9a05-4c9a-866b-2db38583ae7f")
+		(uuid "45ec3ddb-2526-4f96-b7a7-dfc15d8c1636")
 	)
 	(pad "A12" smd rect
 		(at 3.2 0)
@@ -151,7 +151,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "262e0a22-4296-4ec1-9e7a-44c37238363b")
+		(uuid "126ac6fb-2bfa-4be5-8d6b-c90e90f87587")
 	)
 	(pad "B5" smd rect
 		(at 1.75 0)
@@ -159,7 +159,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "500c5773-44e5-4f62-bb6b-5883a8be4e72")
+		(uuid "bd882656-4802-47f6-8045-00733ce45d8f")
 	)
 	(pad "B6" smd rect
 		(at 0.75 0)
@@ -167,7 +167,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "a4c620b4-964c-41a1-884c-dc3bbd8ce38e")
+		(uuid "22af032d-8282-46ce-b00f-529372d521d8")
 	)
 	(pad "B7" smd rect
 		(at -0.75 0)
@@ -175,7 +175,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "669b5346-4b18-4bbf-8fec-2a4b0e4ed81a")
+		(uuid "3cf3d657-b434-4235-9214-12144f92ac94")
 	)
 	(pad "B8" smd rect
 		(at -1.75 0)
@@ -183,7 +183,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "201bb6e9-c44c-444f-adca-7f56353dd746")
+		(uuid "0d679076-600e-42c4-96d7-7ab7cc80bd4a")
 	)
 	(pad "S" smd rect
 		(at -5.11 0.575)
@@ -191,7 +191,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.08)
 		(thermal_bridge_angle 45)
-		(uuid "15aa8d52-acbc-4c43-b815-47214e4b51a7")
+		(uuid "bd480f86-7d5d-46d1-b81c-4608655421fd")
 	)
 	(pad "S" smd rect
 		(at -5.11 4.505)
@@ -199,7 +199,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.05)
 		(thermal_bridge_angle 45)
-		(uuid "858ee4d5-d869-4df1-b5c7-7006b6ae6293")
+		(uuid "2516ffad-67bd-4604-b67b-2adfec96befa")
 	)
 	(pad "S" smd rect
 		(at 5.11 0.575)
@@ -207,7 +207,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.05)
 		(thermal_bridge_angle 45)
-		(uuid "a4ddc362-c56f-4fac-9159-4460cbd87d56")
+		(uuid "54c9c07b-c865-40d5-8eb1-731c04dabaec")
 	)
 	(pad "S" smd rect
 		(at 5.11 4.505)
@@ -215,7 +215,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_paste_margin -0.05)
 		(thermal_bridge_angle 45)
-		(uuid "8bd53f3f-fc4d-48d5-b609-c83a33e27cb0")
+		(uuid "6bb8d4be-9981-4bf5-a54d-f5e24a8bbad1")
 	)
 	(embedded_fonts no)
 	(model "C:/Users/nicho/My Drive/Projects/Projects/PCB projects/MyKicadLibrary/3dBodies/USB4110-GF-A.stp"

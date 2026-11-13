@@ -7,7 +7,7 @@
 		(at -6.0452 7.823 270)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "29b4c1be-9d9e-4a96-8a10-ecc0b09b3f30")
+		(uuid "7870422a-e6e6-4302-934b-b59a0676e6a2")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 1.25 14 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "60977e07-3983-489f-b9a5-047cc58919e8")
+		(uuid "792a0120-5fe0-42ca-9370-ee6f8f34f0fe")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d84bc602-64b7-4812-b9d5-2f824ebbbc49")
+		(uuid "b802dbef-4f4e-4968-b64d-749e7984daac")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "946bd4d1-2767-4729-914e-277b585ca2d8")
+		(uuid "50e0dcef-e899-498f-b4ea-1bbebeb27237")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -61,13 +61,13 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "4d3ec8ed-1479-494f-ade3-9fd3e35fd208")
+		(uuid "a7b780d3-7882-4abd-88cf-2eaa72bc539a")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 15.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "1049b3a4-dd0d-498e-8e80-cca81a977878")
+		(uuid "d9e21be0-e90e-4401-81eb-78434cf340b4")
 		(effects
 			(font
 				(size 1 1)
@@ -80,14 +80,14 @@
 		(size 2 2)
 		(drill 1.75)
 		(layers "F&B.Cu" "*.Mask")
-		(uuid "7a280b3f-1f55-48d9-981d-0e17ba768c25")
+		(uuid "d179dff1-ddd4-4a46-b6b1-74b1f73c12af")
 	)
 	(pad "" np_thru_hole circle
 		(at 2.5 7.18)
 		(size 2 2)
 		(drill 1.75)
 		(layers "F&B.Cu" "*.Mask")
-		(uuid "bb026427-26b1-4dc6-b27f-45abd4a45042")
+		(uuid "40c75daa-15e5-46d9-963f-f1ad6ce2375e")
 	)
 	(pad "1" thru_hole circle
 		(at 2.5 -2.5)
@@ -95,7 +95,7 @@
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "9a484d15-0f8e-4b25-b2cc-55618a8934ef")
+		(uuid "36b57bd2-b8bb-4f50-bd73-627cf2ea0ff5")
 	)
 	(pad "2" thru_hole circle
 		(at 0 -2.5)
@@ -103,7 +103,7 @@
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "b3689c30-9f88-4447-b888-3220bcffbc5e")
+		(uuid "97366323-9a3a-4ac1-a425-54f988969fab")
 	)
 	(pad "3" thru_hole circle
 		(at -2.5 -2.5)
@@ -111,7 +111,7 @@
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "ba852a5e-48a1-4e48-a2c4-aaa745c05fac")
+		(uuid "3bb6ec69-88d4-4f50-b990-9880e581464a")
 	)
 	(pad "4" thru_hole circle
 		(at 2.5 0)
@@ -119,7 +119,7 @@
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "907ffdac-dcb9-4f5f-9b9a-4525ef571f40")
+		(uuid "11fc96bc-0022-4e8b-ab87-01a8814089be")
 	)
 	(pad "5" thru_hole circle
 		(at 0 0)
@@ -127,7 +127,7 @@
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "6268c4e6-5a92-4963-8143-c578de1f0849")
+		(uuid "22b8fb69-ee17-4932-9dae-8325c811d55b")
 	)
 	(pad "6" thru_hole circle
 		(at -2.5 0)
@@ -135,7 +135,7 @@
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "b87d4c50-8b68-4408-a824-84c3e4acbf60")
+		(uuid "d5564952-2be0-4916-9844-01313c2c8724")
 	)
 	(embedded_fonts no)
 	(model "C:/Users/nicho/My Drive/Projects/Projects/PCB projects/MyKicadLibrary/3dBodies/1053141106.stp"
